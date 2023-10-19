@@ -1,0 +1,3 @@
+<resources>
+    <string name="app_name">API calls with Retrofit uses ViewModel and LiveData</string>
+</resources>
